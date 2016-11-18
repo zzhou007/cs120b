@@ -1,0 +1,8 @@
+/* steven lopez sloope029@ucr.edu
+ * zihang zhou zzhou007@ucr.edu
+ * Lab section 22
+ * slope029_zzhou007_lab_part.c
+ *
+ * I acknowledge all content contained herein, excluding template or example
+ * code, is my own original work.
+*/
